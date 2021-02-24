@@ -4,3 +4,9 @@ Este archivo te mostrara como crear tablas de multiplicar automaticas y te mostr
 
 lenguajes: NODE.JS 
 autor: samuel arriola 
+
+ejecura despues de descargar 
+
+```
+npm install
+```
